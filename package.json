@@ -1,0 +1,19 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "Final",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huangxutao/WeChat-NetEaseCloudMusic.git"
+  },
+  "author": "huangxutao <h784124804@gmail.com> (https://hxtao.site/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "weixin-api": "^0.1.7"
+  }
+}
